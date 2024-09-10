@@ -58,5 +58,4 @@ https://gist.github.com/piyushgarg-dev/7c4016b12301552b628bbac21a11e6ab (follow 
 
 ## MongoDB Atlas DB Screenshot
 
-
-![Screenshot 2024-09-10 205204](https://github.com/user-attachments/assets/f5f23fc1-f60e-4cde-9b63-9adfeddfd426)
+![Screenshot 2024-09-10 211418](https://github.com/user-attachments/assets/61c47b2e-f786-4cb5-98c3-0c340ba494ae)
