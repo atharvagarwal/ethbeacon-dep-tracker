@@ -35,7 +35,7 @@ use the following commands in your terminal and run docker desktop simultaneousl
 
 1. docker build -t your_dockerhub_username/nodejs-image-demo .
 2. docker images
-3. docker run --name nodejs-image-demo -p 80:8080 -d your_dockerhub_username/nodejs-image-demo
+3. docker run --name nodejs-image-demo -p 4000:4000 -d your_dockerhub_username/nodejs-image-demo
 4. docker ps
 5. docker logs container id
 
