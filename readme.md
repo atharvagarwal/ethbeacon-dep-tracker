@@ -14,12 +14,12 @@ In addition to this if you want to test the webhooks , install ngrok to test loc
 Also to setup the app locally - use command **git clone url** locally
 
 You can find the links to do the following process below-
-https://dashboard.ngrok.com/get-started/setup/windows - **NGROK**
-https://nodejs.org/en/download/prebuilt-installer/current- **Node.js**
-https://www.mongodb.com/docs/manual/installation/- **MongoDB**
-https://www.mongodb.com/docs/atlas/getting-started/- **Atlas setup**
-https://docs.docker.com/desktop/install/windows-install/ -**docker desktop setup**
-https://www.freecodecamp.org/news/how-to-deploy-nodejs-application-with-render/ - **reder deployment**
+1. https://dashboard.ngrok.com/get-started/setup/windows - **NGROK**
+2. https://nodejs.org/en/download/prebuilt-installer/current- **Node.js**
+3. https://www.mongodb.com/docs/manual/installation/- **MongoDB**
+4. https://www.mongodb.com/docs/atlas/getting-started/- **Atlas setup**
+5. https://docs.docker.com/desktop/install/windows-install/ -**docker desktop setup**
+6. https://www.freecodecamp.org/news/how-to-deploy-nodejs-application-with-render/ - **reder deployment**
 
 ## Alchemy Setup
 1. create a new project on alchemy and generate api keys - https://docs.alchemy.com/docs/alchemy-quickstart-guide 
