@@ -11,7 +11,7 @@ If not then you can also use Docker to run this project , but for that you must 
 
 In addition to this if you want to test the webhooks , install ngrok to test locally , or deploy it to render.
 
-Also to setup the app locally - use command **git clone url** locally
+Also to setup the app locally - use command **git clone url** locally and setup the .env file by taking reference of .env.example (dummy env) file in codebase.
 
 You can find the links to do the following process below-
 1. https://dashboard.ngrok.com/get-started/setup/windows - **NGROK**
@@ -27,8 +27,8 @@ You can find the links to do the following process below-
 **While creating webhooks , make sure to use sepolia testnet and create it using address activity tab**
 
 ## Telegram bot setup
-To setup the telegram bot , you can use the following links-https://www.siteguarding.com/en/how-to-get-telegram-bot-api-token
-Get the chat id - https://www.alphr.com/find-chat-id-telegram/
+1. To setup the telegram bot , you can use the following links-https://www.siteguarding.com/en/how-to-get-telegram-bot-api-token
+2. Get the chat id - https://www.alphr.com/find-chat-id-telegram/
 
 ## Run the app using docker
 use the following commands in your terminal and run docker desktop simultaneously
@@ -47,3 +47,16 @@ use the following commands in your terminal and run docker desktop simultaneousl
 
 ## Setting up grafana and prometheus
 https://gist.github.com/piyushgarg-dev/7c4016b12301552b628bbac21a11e6ab (follow this link)
+
+## Telegram real time notifications screenshot
+
+![Screenshot 2024-09-10 210556](https://github.com/user-attachments/assets/99e1cef1-fa93-409f-a7b1-841400624c0e)
+
+## Web Hooks Screenshot
+
+![Screenshot 2024-09-10 205204](https://github.com/user-attachments/assets/27397960-136f-4b16-8690-0a5d9ccda601)
+
+## MongoDB Atlas DB Screenshot
+
+
+![Screenshot 2024-09-10 205204](https://github.com/user-attachments/assets/f5f23fc1-f60e-4cde-9b63-9adfeddfd426)
